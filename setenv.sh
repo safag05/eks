@@ -76,9 +76,10 @@ region = "${S3BUCKETREGION}"
 EOF
 cat backend.tf
 rm -rf  .terraform/terraform.tfstate
+terraform_0.12.23 init
 
 echo "#################"
 
-echo "Please use terraform_0.12.19"
+echo "Please use terraform_0.12.23"
 
 echo "#################"
