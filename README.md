@@ -1,15 +1,14 @@
 # terraform-iaac-eks
 
-Prerequisites:
-Terraform 0.12.19
+Prerequisites: Terraform 0.12.19
 
-### changed the following lines
+### Changed the following lines
 
-s3_bucket = "eks-safag-test"              #Will be used to set backend.tf
-vpc_id = "vpc-7170550b"
-subnet1 = "subnet-6fe3f741"
-subnet2 = "subnet-b90bd2f4"
-subnet3 = "subnet-56d5df0a"
+##### s3_bucket = "eks-safag-test"    #Will be used to set backend.tf
+##### vpc_id = "vpc-7170550b"
+##### subnet1 = "subnet-6fe3f741"
+##### subnet2 = "subnet-b90bd2f4"
+##### subnet3 = "subnet-56d5df0a"
 
 
 - Checking for available provider plugins...
@@ -24,10 +23,10 @@ subnet3 = "subnet-56d5df0a"
 ### Install kubectl and AWS CLI
 
 ## yum install awscli -y
-curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.14.0/bin/linux/amd64/kubectl
-chmod +x kubectl 
-sudo mv kubectl /bin/
-kubectl version
+* curl -LO https://storage.googleapis.com/kubernetes-release/release/v1.14.0/bin/linux/amd64/kubectl
+* chmod +x kubectl 
+* sudo mv kubectl /bin/
+* kubectl version
 
 ### If you get the following error 
 Invalid choice 'eks', maybe you meant:
