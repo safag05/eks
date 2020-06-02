@@ -6,7 +6,7 @@ region = "us-west-1"
 cluster_name = "california"
 environment = "california"
 
-1
+12
 
 
 s3_folder_project = "application"            #Will be used to set backend.tf
