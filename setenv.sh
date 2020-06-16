@@ -8,6 +8,7 @@ then
 fi
 
 if [ -z "$1" ]
+then
 
 fi
 
