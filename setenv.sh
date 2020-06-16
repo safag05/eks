@@ -7,7 +7,7 @@ then
    return 1
 fi
 
-if
+if [ "$1" ]
 
 fi
 
