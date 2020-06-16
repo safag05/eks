@@ -1,4 +1,4 @@
-s3_bucket = "eks-terraform-team2-california"            #Will be used to set backend.tf
+s3_bucket = "eks-terraform-team2-california"        #Will be used to set backend.tf
 vpc_id = "vpc-66cdee01"
 subnet1 = "subnet-91f0e2f6"
 subnet2 = "subnet-96123ccd"
