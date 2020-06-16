@@ -9,7 +9,7 @@ fi
 
 if [ -z "$1" ]
 then
-   echo
+   echo "system: "
 fi
 
 if [ -z "$1" ]
