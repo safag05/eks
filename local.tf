@@ -46,5 +46,4 @@ resource "null_resource" "login" {
     command = "kubectl get deploy"
   }
 
-
 }
