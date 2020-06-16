@@ -9,12 +9,6 @@ fi
 
 if [ -z "$1" ]
 then
-   echo "system: unable to load setenv"
-   return 1
-fi
-
-if [ -z "$1" ]
-then
    echo "setenv: You must provide the name of the configuration file."
    echo "e.g. source ./setenv configurations/data-rnd-us-vet1-v1"
    return 1
