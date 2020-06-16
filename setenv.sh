@@ -10,6 +10,7 @@ fi
 if [ -z "$1" ]
 then
    echo "system: "
+   retuen 1
 fi
 
 if [ -z "$1" ]
