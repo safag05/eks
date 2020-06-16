@@ -9,6 +9,8 @@ fi
 
 if
 
+fi
+
 if [ -z "$1" ]
 then
    echo "setenv: You must provide the name of the configuration file."
