@@ -18,7 +18,6 @@ asg_desired_capacity = "2"
 cluster_version = "1.14"
 
 
-
 # jenkins will provide 
 ## environment = "dev"
 ## region = "us-east-1"
