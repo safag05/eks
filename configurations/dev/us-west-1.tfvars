@@ -28,8 +28,3 @@ cluster_version = "1.14"
 ## asg_min_size = "3"
 ## asg_desired_capacity = "3"
 ## cluster_version = "1.14"
-
-
-
-
-
