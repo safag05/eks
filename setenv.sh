@@ -21,6 +21,7 @@ if [ ! -d "$DIR/configurations" ]; then
     echo "setenv: Must be run from the root directory of the terraform project."
     return 1
 fi
+
 if [ ! -f "$DATAFILE" ]; then
     echo "setenv: Configuration file not found: $DATAFILE"
     return 1
