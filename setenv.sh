@@ -9,7 +9,7 @@ fi
 
 if [ -z "$1" ]
 then
-   echo "system: unable to load setenv "
+   echo "system: unable to load setenv"
    return 1
 fi
 
