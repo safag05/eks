@@ -3,7 +3,7 @@ vpc_id = "vpc-66cdee01"
 subnet1 = "subnet-91f0e2f6"
 subnet2 = "subnet-96123ccd"
 region = "us-east-1"                     #Please change to region that is required
-cluster_name = "Virginia"
+cluster_name = "Virginia"                #Name
 environment = "Virginia"
 
 s3_folder_project = "application"            #Will be used to set backend.tf
