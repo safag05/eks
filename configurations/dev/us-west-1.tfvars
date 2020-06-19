@@ -4,7 +4,7 @@ subnet1 = "subnet-91f0e2f6"
 subnet2 = "subnet-96123ccd"
 region = "us-east-1"                     #Please change to region that is required
 cluster_name = "Virginia"                #Name you will like to put to your cluster
-environment = "Virginia"
+environment = "Virginia".                #Name of the env
 
 s3_folder_project = "application"            #Will be used to set backend.tf
 s3_folder_region = "us-west-1"               #Will be used to set backend.tf
