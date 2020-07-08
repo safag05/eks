@@ -1,7 +1,7 @@
 terraform {
 backend "s3" {
-bucket = "eks-safag-test"
-key = "application/us-east-1/state/dev/infrastructure.tfstate"
-region = "us-east-1"
+bucket = "eks-terraform-Virginia"
+key = "application/us-west-1/state/Virginia/infrastructure.tfstate"
+region = "us-west-1"
   }
 }
