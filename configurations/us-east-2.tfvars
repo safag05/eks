@@ -1,4 +1,3 @@
-s3_bucket = "321-test-123"              #Will be used to set backend.tf
 vpc_id = "vpc-67dd1f1f"
 subnet1 = "subnet-250e515c"
 subnet2 = "subnet-d9a0d992"
