@@ -8,7 +8,7 @@ cluster_name = "Virginia"                #Name you will like to put to your clus
 environment = "Virginia"                 #Name of the env you will want to deploy it to               
 
 
-s3_folder_project = "application"            #Will be used to set backend.tf
+s3_folder_project = "eks"            #Will be used to set backend.tf
 s3_folder_region = "us-west-1"               #Will be used to set backend.tf
 s3_folder_type = "state"                     #Will be used to set backend.tf
 s3_tfstate_file = "infrastructure.tfstate"   #Will be used to set backend.tf
