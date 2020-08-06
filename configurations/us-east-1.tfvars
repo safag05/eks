@@ -1,7 +1,7 @@
 vpc_id = "vpc-7170550b"
 subnet1 = "subnet-6fe3f741"              #Specify the first subnet
 subnet2 = "subnet-b90bd2f4"              #Specify the second subnet
-subnet3 = "subnet-56d5df0a"
+subnet3 = "subnet-56d5df0a"              #Specify the third subnet
 region = "us-east-1"                     #Please change to region that is required
 cluster_name = "Virginia"                #Name you will like to put to your cluster
 environment = "Virginia"                 #Name of the env you will want to deploy it to               
