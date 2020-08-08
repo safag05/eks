@@ -1,4 +1,4 @@
-vpc_id = "vpc-7170550b"
+vpc_id = "vpc-7170550b"                  #Specify the ID of the VPC you want to use
 subnet1 = "subnet-6fe3f741"              #Specify the first subnet
 subnet2 = "subnet-b90bd2f4"              #Specify the second subnet
 subnet3 = "subnet-56d5df0a"              #Specify the third subnet
