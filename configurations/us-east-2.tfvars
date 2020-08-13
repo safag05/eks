@@ -4,7 +4,7 @@ subnet2 = "subnet-d9a0d992"                #Specify the second subnet
 subnet3 = "subnet-a33d13f9"                #Specify the third subnet
 region = "us-west-2"                       #Please change to region that is required
 cluster_name = "oregon"                    #Name you will like to put to your cluster
-environment = "oregon"
+environment = "oregon"                     #Name of the env you will want to deploy it to 
 
 
 
