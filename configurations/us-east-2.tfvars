@@ -11,7 +11,7 @@ environment = "oregon"                     #Name of the env you will want to dep
 
 s3_folder_project = "eks-safa"            #Will be used to set backend.tf
 s3_folder_region = "us-west-2"               #Will be used to set backend.tf
-s3_folder_type = "state"                     #Will be used to set backend.tf
+s3_folder_type = "state"                    #Will be used to set backend.tf
 s3_tfstate_file = "infrastructure.tfstate"  #Will be used to set backend.tf
 instance_type = "t2.micro"                  
 asg_max_size = "10"                         #Change as required
