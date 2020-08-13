@@ -17,7 +17,7 @@ instance_type = "t2.micro"
 asg_max_size = "10"
 asg_min_size = "2"
 asg_desired_capacity = "2"
-cluster_version = "1.14"
+cluster_version = "1.14"                    #Please do not change
 
 
 
