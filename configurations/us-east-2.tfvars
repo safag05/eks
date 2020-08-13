@@ -3,7 +3,7 @@ subnet1 = "subnet-250e515c"                #Specify the first subnet
 subnet2 = "subnet-d9a0d992"                #Specify the second subnet
 subnet3 = "subnet-a33d13f9"                #Specify the third subnet
 region = "us-west-2"                       #Please change to region that is required
-cluster_name = "oregon"
+cluster_name = "oregon"                    #Name you will like to put to your cluster
 environment = "oregon"
 
 
