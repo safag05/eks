@@ -15,7 +15,7 @@ s3_folder_type = "state"                     #Will be used to set backend.tf
 s3_tfstate_file = "infrastructure.tfstate"   #Will be used to set backend.tf
 instance_type = "t2.micro"
 asg_max_size = "10"
-asg_min_size = "2"
+asg_min_size = "2"                          #Change as required
 asg_desired_capacity = "2"                  #Change as required
 cluster_version = "1.14"                    #Please do not change
 
