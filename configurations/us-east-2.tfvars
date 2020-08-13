@@ -1,5 +1,5 @@
 vpc_id = "vpc-67dd1f1f"                    #Specify the ID of the VPC you want to use
-subnet1 = "subnet-250e515c"
+subnet1 = "subnet-250e515c"                #Specify the first subnet
 subnet2 = "subnet-d9a0d992"
 subnet3 = "subnet-a33d13f9"
 region = "us-west-2"
