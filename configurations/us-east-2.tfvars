@@ -2,7 +2,7 @@ vpc_id = "vpc-67dd1f1f"                    #Specify the ID of the VPC you want t
 subnet1 = "subnet-250e515c"                #Specify the first subnet
 subnet2 = "subnet-d9a0d992"                #Specify the second subnet
 subnet3 = "subnet-a33d13f9"                #Specify the third subnet
-region = "us-west-2"
+region = "us-west-2"                       #Please change to region that is required
 cluster_name = "oregon"
 environment = "oregon"
 
