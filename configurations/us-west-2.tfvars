@@ -1,6 +1,6 @@
 s3_bucket = "eks-safag-test"              #Will be used to set backend.tf
 vpc_id = "vpc-080c66a1a0fb9cc88"          #Specify the ID of the VPC you want to use
-subnet1 = "subnet-00d9edd2322c3b3cc"
+subnet1 = "subnet-00d9edd2322c3b3cc"      #Specify the first subnet
 subnet2 = "subnet-054eddccd3484ae61"
 region = "us-west-1"
 cluster_name = "qa"
