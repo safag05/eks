@@ -18,7 +18,7 @@ asg_min_size = "2"
 asg_desired_capacity = "2"
 cluster_version = "1.14"
 
-# jenkins will provide 
+# jenkins will provide the following
 ## environment = "dev"
 ## region = "us-east-1"
 ## cluster_name = "dev"
