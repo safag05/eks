@@ -16,7 +16,7 @@ instance_type = "t2.micro"                   #Instance size
 asg_max_size = "48"                          #Auto scalling group max size
 asg_min_size = "2"                           #Auto scalling group min size
 asg_desired_capacity = "2"                   #Auto scalling desired capacity 
-cluster_version = "1.14"                     
+cluster_version = "1.14"                     #Version of the cluster
                     
 
 # jenkins will provide the following
